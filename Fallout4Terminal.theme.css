@@ -20,7 +20,7 @@
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
   --rgb-highlight: 255, 0, 0; /* The main highlight color */
-  --rgb-background: 1, 0, 0; /* The main background color */
+  --rgb-background: 0, 0, 0; /* The main background color */
   --rgb-text: 255, 0, 0; /* The color (almost) all text should use */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
   --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
@@ -34,7 +34,7 @@
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 5px; /* Blurs the image which usually helps with readability of text infront of it */
-  --background-brightness: 100%; /* Changes the background images brightness */
+  --background-brightness: 0%; /* Changes the background images brightness */
   
   --title-image: url("https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg"); /* The .svg file used for the "ROBCO Industries (TM) terminal" title */
   --title-image-repeat: no-repeat; /* If the title image should repeat */
